@@ -24,12 +24,5 @@ Kedua : masukan dokument kode awal untuk memulai html :
 
 
 
-The <!DOCTYPE html>deklarasi mendefinisikan bahwa dokumen ini adalah dokumen HTML5
-The <html>elemen elemen akar halaman HTML
-The <head>elemen berisi informasi meta tentang halaman HTML
-The <title>elemen menentukan judul untuk halaman HTML (yang ditampilkan dalam bar judul browser atau tab halaman ini)
-The <body>elemen mendefinisikan tubuh dokumen, dan merupakan wadah untuk semua isi terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll
-The <h1>elemen mendefinisikan judul besar
-The <p>elemen mendefinisikan sebuah paragraf
 
 
