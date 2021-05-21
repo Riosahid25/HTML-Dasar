@@ -22,18 +22,7 @@ Pertama hal yang harus anda lakukan yaitu menyiapkan kode editor seperti yang ad
 
 Kedua : masukan dokument kode awal untuk memulai html :
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-
-</body>
-</html>
 
 The <!DOCTYPE html>deklarasi mendefinisikan bahwa dokumen ini adalah dokumen HTML5
 The <html>elemen elemen akar halaman HTML
