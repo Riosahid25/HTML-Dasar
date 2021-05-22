@@ -55,6 +55,8 @@ Tujuan dari browser web (Chrome, Firefox, Safari) adalah untuk membaca dokumen H
 Browser tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen:
 
 ![alt text](https://www.w3schools.com/html/img_chrome.png)
+<br>
+[Credit img by w3schools.com](https://www.w3schools.com/html/img_chrome.png)
 
 Dan inilah cara proses singkat mengenal HTML . Tetap semangat saya akan selalu mengupdate pelajaran ini.
 
